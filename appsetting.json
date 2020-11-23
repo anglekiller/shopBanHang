@@ -1,0 +1,7 @@
+{
+  {
+    "ConnectionStrings": {
+      "shopBanHangDatabase": "Server=DESKTOP-JAKPM90\\TINNT\\\\mssqllocaldb;Database=EFGetStarted.ConsoleApp.NewDb;Trusted_Connection=True;"
+    }
+  }
+}
